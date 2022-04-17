@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/VisualParamGenerator/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/VisualParamGenerator.pdb
+/home/fito/sources/libopenmetaverse/bin/VisualParamGenerator.exe
+/home/fito/sources/libopenmetaverse/Programs/VisualParamGenerator/obj/Debug/VisualParamGenerator.exe
+/home/fito/sources/libopenmetaverse/Programs/VisualParamGenerator/obj/Debug/VisualParamGenerator.pdb

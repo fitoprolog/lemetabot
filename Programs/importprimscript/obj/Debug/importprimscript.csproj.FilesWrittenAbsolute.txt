@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/importprimscript/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/importprimscript.pdb
+/home/fito/sources/libopenmetaverse/bin/importprimscript.exe
+/home/fito/sources/libopenmetaverse/Programs/importprimscript/obj/Debug/importprimscript.exe
+/home/fito/sources/libopenmetaverse/Programs/importprimscript/obj/Debug/importprimscript.pdb

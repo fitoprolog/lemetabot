@@ -1,0 +1,7 @@
+/home/fito/sources/libopenmetaverse/SandraBotzon/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/bin/SandraBotzon.pdb
+/home/fito/bin/SandraBotzon.exe
+/home/fito/sources/libopenmetaverse/SandraBotzon/obj/Debug/SandraBotzon.exe
+/home/fito/sources/libopenmetaverse/SandraBotzon/obj/Debug/SandraBotzon.pdb
+/home/fito/sources/libopenmetaverse/bin/SandraBotzon.pdb
+/home/fito/sources/libopenmetaverse/bin/SandraBotzon.exe

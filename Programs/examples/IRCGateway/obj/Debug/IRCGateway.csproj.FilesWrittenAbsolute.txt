@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/IRCGateway/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/IRCGateway.pdb
+/home/fito/sources/libopenmetaverse/bin/IRCGateway.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/IRCGateway/obj/Debug/IRCGateway.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/IRCGateway/obj/Debug/IRCGateway.pdb

@@ -1,0 +1,8 @@
+/home/fito/sources/libopenmetaverse/Programs/PrimWorkshop/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/PrimWorkshop/obj/Debug/PrimWorkshop.frmPrimWorkshop.resources
+/home/fito/sources/libopenmetaverse/Programs/PrimWorkshop/obj/Debug/PrimWorkshop.frmBrowser.resources
+/home/fito/sources/libopenmetaverse/Programs/PrimWorkshop/obj/Debug/PrimWorkshop.Properties.Resources.resources
+/home/fito/sources/libopenmetaverse/bin/PrimWorkshop.pdb
+/home/fito/sources/libopenmetaverse/bin/PrimWorkshop.exe
+/home/fito/sources/libopenmetaverse/Programs/PrimWorkshop/obj/Debug/PrimWorkshop.exe
+/home/fito/sources/libopenmetaverse/Programs/PrimWorkshop/obj/Debug/PrimWorkshop.pdb

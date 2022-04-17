@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/OpenMetaverse.StructuredData/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.StructuredData.pdb
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.StructuredData.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.StructuredData/obj/Debug/OpenMetaverse.StructuredData.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.StructuredData/obj/Debug/OpenMetaverse.StructuredData.pdb

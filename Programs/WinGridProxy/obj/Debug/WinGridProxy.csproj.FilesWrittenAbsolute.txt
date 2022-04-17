@@ -1,0 +1,9 @@
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/WinGridProxy.AboutBox1.resources
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/WinGridProxy.FormWinGridProxy.resources
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/WinGridProxy.FormPluginManager.resources
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/WinGridProxy.FormSessionSearch.resources
+/home/fito/sources/libopenmetaverse/bin/WinGridProxy.pdb
+/home/fito/sources/libopenmetaverse/bin/WinGridProxy.exe
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/WinGridProxy.exe
+/home/fito/sources/libopenmetaverse/Programs/WinGridProxy/obj/Debug/WinGridProxy.pdb

@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/GridProxy/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/GridProxyApp.pdb
+/home/fito/sources/libopenmetaverse/bin/GridProxyApp.exe
+/home/fito/sources/libopenmetaverse/Programs/GridProxy/obj/Debug/GridProxyApp.exe
+/home/fito/sources/libopenmetaverse/Programs/GridProxy/obj/Debug/GridProxyApp.pdb

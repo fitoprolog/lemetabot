@@ -1,0 +1,6 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/GridAccountant/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/examples/GridAccountant/obj/Debug/GridAccountant.frmGridAccountant.resources
+/home/fito/sources/libopenmetaverse/bin/GridAccountant.pdb
+/home/fito/sources/libopenmetaverse/bin/GridAccountant.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/GridAccountant/obj/Debug/GridAccountant.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/GridAccountant/obj/Debug/GridAccountant.pdb

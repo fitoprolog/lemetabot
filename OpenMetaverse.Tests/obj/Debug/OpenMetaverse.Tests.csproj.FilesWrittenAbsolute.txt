@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.Tests.pdb
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.Tests.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Tests/obj/Debug/OpenMetaverse.Tests.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Tests/obj/Debug/OpenMetaverse.Tests.pdb

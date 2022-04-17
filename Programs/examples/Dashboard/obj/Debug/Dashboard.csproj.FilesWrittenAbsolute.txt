@@ -1,0 +1,6 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/Dashboard/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/examples/Dashboard/obj/Debug/Dashboard.Dashboard.resources
+/home/fito/sources/libopenmetaverse/bin/Dashboard.pdb
+/home/fito/sources/libopenmetaverse/bin/Dashboard.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/Dashboard/obj/Debug/Dashboard.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/Dashboard/obj/Debug/Dashboard.pdb

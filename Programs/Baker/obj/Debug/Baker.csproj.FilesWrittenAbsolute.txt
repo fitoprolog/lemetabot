@@ -1,0 +1,6 @@
+/home/fito/sources/libopenmetaverse/Programs/Baker/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/Baker/obj/Debug/Baker.frmBaker.resources
+/home/fito/sources/libopenmetaverse/bin/Baker.pdb
+/home/fito/sources/libopenmetaverse/bin/Baker.exe
+/home/fito/sources/libopenmetaverse/Programs/Baker/obj/Debug/Baker.exe
+/home/fito/sources/libopenmetaverse/Programs/Baker/obj/Debug/Baker.pdb

@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/mapgenerator/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/mapgenerator.pdb
+/home/fito/sources/libopenmetaverse/bin/mapgenerator.exe
+/home/fito/sources/libopenmetaverse/Programs/mapgenerator/obj/Debug/mapgenerator.exe
+/home/fito/sources/libopenmetaverse/Programs/mapgenerator/obj/Debug/mapgenerator.pdb

@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/VoiceTest/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/VoiceTest.pdb
+/home/fito/sources/libopenmetaverse/bin/VoiceTest.exe
+/home/fito/sources/libopenmetaverse/Programs/VoiceTest/obj/Debug/VoiceTest.exe
+/home/fito/sources/libopenmetaverse/Programs/VoiceTest/obj/Debug/VoiceTest.pdb

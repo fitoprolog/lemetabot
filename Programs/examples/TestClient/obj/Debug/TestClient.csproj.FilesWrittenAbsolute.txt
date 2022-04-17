@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/TestClient/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/TestClient.pdb
+/home/fito/sources/libopenmetaverse/bin/TestClient.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/TestClient/obj/Debug/TestClient.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/TestClient/obj/Debug/TestClient.pdb

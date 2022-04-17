@@ -1,0 +1,7 @@
+/home/fito/sources/libopenmetaverse/Programs/GridImageUpload/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/GridImageUpload/obj/Debug/GridImageUpload.frmGridImageUpload.resources
+/home/fito/sources/libopenmetaverse/Programs/GridImageUpload/obj/Debug/GridImageUpload.Properties.Resources.resources
+/home/fito/sources/libopenmetaverse/bin/GridImageUpload.pdb
+/home/fito/sources/libopenmetaverse/bin/GridImageUpload.exe
+/home/fito/sources/libopenmetaverse/Programs/GridImageUpload/obj/Debug/GridImageUpload.exe
+/home/fito/sources/libopenmetaverse/Programs/GridImageUpload/obj/Debug/GridImageUpload.pdb

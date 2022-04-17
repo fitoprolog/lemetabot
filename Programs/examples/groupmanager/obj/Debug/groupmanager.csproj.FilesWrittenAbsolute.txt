@@ -1,0 +1,7 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/groupmanager/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/examples/groupmanager/obj/Debug/groupmanager.frmGroupInfo.resources
+/home/fito/sources/libopenmetaverse/Programs/examples/groupmanager/obj/Debug/groupmanager.frmGroupManager.resources
+/home/fito/sources/libopenmetaverse/bin/groupmanager.pdb
+/home/fito/sources/libopenmetaverse/bin/groupmanager.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/groupmanager/obj/Debug/groupmanager.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/groupmanager/obj/Debug/groupmanager.pdb

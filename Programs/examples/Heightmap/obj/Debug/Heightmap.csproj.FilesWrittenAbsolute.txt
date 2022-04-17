@@ -1,0 +1,6 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/Heightmap/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/examples/Heightmap/obj/Debug/Heightmap.frmHeightmap.resources
+/home/fito/sources/libopenmetaverse/bin/Heightmap.pdb
+/home/fito/sources/libopenmetaverse/bin/Heightmap.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/Heightmap/obj/Debug/Heightmap.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/Heightmap/obj/Debug/Heightmap.pdb

@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/Programs/examples/PacketDump/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/PacketDump.pdb
+/home/fito/sources/libopenmetaverse/bin/PacketDump.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/PacketDump/obj/Debug/PacketDump.exe
+/home/fito/sources/libopenmetaverse/Programs/examples/PacketDump/obj/Debug/PacketDump.pdb

@@ -1,0 +1,7 @@
+/home/fito/sources/libopenmetaverse/Programs/AvatarPreview/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/Programs/AvatarPreview/obj/Debug/AvatarPreview.frmAvatar.resources
+/home/fito/sources/libopenmetaverse/Programs/AvatarPreview/obj/Debug/AvatarPreview.Properties.Resources.resources
+/home/fito/sources/libopenmetaverse/bin/AvatarPreview.pdb
+/home/fito/sources/libopenmetaverse/bin/AvatarPreview.exe
+/home/fito/sources/libopenmetaverse/Programs/AvatarPreview/obj/Debug/AvatarPreview.exe
+/home/fito/sources/libopenmetaverse/Programs/AvatarPreview/obj/Debug/AvatarPreview.pdb

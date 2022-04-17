@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Rendering.Simple/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.Rendering.Simple.pdb
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.Rendering.Simple.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Rendering.Simple/obj/Debug/OpenMetaverse.Rendering.Simple.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Rendering.Simple/obj/Debug/OpenMetaverse.Rendering.Simple.pdb

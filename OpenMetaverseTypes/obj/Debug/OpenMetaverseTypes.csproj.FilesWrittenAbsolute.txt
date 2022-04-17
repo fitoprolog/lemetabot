@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/OpenMetaverseTypes/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverseTypes.pdb
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverseTypes.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverseTypes/obj/Debug/OpenMetaverseTypes.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverseTypes/obj/Debug/OpenMetaverseTypes.pdb

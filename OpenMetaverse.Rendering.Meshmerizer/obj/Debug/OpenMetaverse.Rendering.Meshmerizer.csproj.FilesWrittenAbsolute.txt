@@ -1,0 +1,5 @@
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Rendering.Meshmerizer/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.Rendering.Meshmerizer.pdb
+/home/fito/sources/libopenmetaverse/bin/OpenMetaverse.Rendering.Meshmerizer.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Rendering.Meshmerizer/obj/Debug/OpenMetaverse.Rendering.Meshmerizer.dll
+/home/fito/sources/libopenmetaverse/OpenMetaverse.Rendering.Meshmerizer/obj/Debug/OpenMetaverse.Rendering.Meshmerizer.pdb
